@@ -1,0 +1,1 @@
+"/home/soft/all_schrodinger/schrodinger2023-1/glide" glide-dock_GHDDI_all.in -OVERWRITE -NJOBS 5000 -HOST localhost:32 -TMPLAUNCHDIR

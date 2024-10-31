@@ -1,0 +1,3 @@
+GRIDFILE   /home/pctan02/projects/UFMylation/modeling/GHDDI_lib/test/data/grid/rank2-grid1.zip
+LIGANDFILE   /home/pctan02/projects/UFMylation/modeling/GHDDI_lib/ligprep_GHDDI_all/ligprep_GHDDI_all-out.maegz
+PRECISION   SP
