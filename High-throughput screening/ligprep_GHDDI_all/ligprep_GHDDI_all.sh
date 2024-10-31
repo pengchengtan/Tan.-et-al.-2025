@@ -1,0 +1,1 @@
+"/home/soft/all_schrodinger/schrodinger2023-1/ligprep" -inp ligprep_GHDDI_all.inp -HOST localhost:32 -NJOBS 200 -TMPLAUNCHDIR
