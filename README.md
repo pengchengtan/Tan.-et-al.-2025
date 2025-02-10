@@ -1,5 +1,4 @@
-# Tan.-et-al.-2024
+# Tan.-et-al.-2025
 
-Here are main codes used for plotting figures in Tan. et al., 2024 paper. 
+Here are main codes used for plotting figures in Tan. et al., 2025, Discovery of potent UFMylation inhibitors for glioblastoma treatment via dual modulation of tumor and immune microenvironment. 
 
-To cite our paper:
